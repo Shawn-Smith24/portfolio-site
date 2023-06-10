@@ -12,7 +12,7 @@ export const projects = [
     title: 'Job Tracker',
     description: 'The Job Tracker App is a full-stack application built to help users keep track of their job applications. It allows users to sign up, search for jobs, and apply for jobs, as well as manage their application status.',
     image: '/images/Job-board.png',
-    tags: ['Python, Flask, React.js, SQLite'],
+    tags: ['Python, Flask, React.js, SQLite, Tailwind'],
     source: 'https://github.com/Shawn-Smith24/job-tracker/tree/shawn',
     demo: '',
     id:1 
