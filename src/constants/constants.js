@@ -1,13 +1,22 @@
 export const projects = [
   {
     title: 'My Portfolio',
-    description: "Used React to build my portfolio website to easily stage my experience and all my projects",
+    description: "Web App to easily stage my experience and all my projects using React",
     image: '/images/portfolio-site.png',
-    tags: ['React'],
+    tags: ['React, Next'],
     source: 'https://github.com/Shawn-Smith24/portfolio-site',
     demo: '',
     id: 0,
   },
+  {
+    title: 'Job Tracker',
+    description: 'The Job Tracker App is a full-stack application built to help users keep track of their job applications. It allows users to sign up, search for jobs, and apply for jobs, as well as manage their application status.',
+    image: '/images/Job-board.png',
+    tags: ['Python, Flask, React.js, SQLite'],
+    source: 'https://github.com/Shawn-Smith24/job-tracker/tree/shawn',
+    demo: '',
+    id:1 
+    }
 
 ];
 
