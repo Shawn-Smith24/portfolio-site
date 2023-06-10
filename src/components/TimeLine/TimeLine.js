@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>My Journey</SectionTitle>
+      <SectionTitle>My Path</SectionTitle>
       <SectionText>
       I decided to make a career change from Warehouse Operations to Web development. My goal as a Full-Stack Developer is to bring creativity to technical problems. I have always enjoyed photography, other creative hobbies, and problem solving. Being a developer allows me to express both my problem solving abilities in addition to expressing my creativity. With my background I can provide efficiency, innovation, imagination and mesh into a collaborative environment. 
       </SectionText>
