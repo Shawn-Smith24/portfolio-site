@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run build",
+    "build": "next build && next export",
     "start": "next start"
   },
   "dependencies": {
@@ -15,6 +15,4 @@
     "styled-components": "^5.3.11",
     "styled-normalize": "^8.0.7"
   }
-
-
 }
