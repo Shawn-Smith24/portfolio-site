@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, DiSwift, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -18,7 +18,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
+            Experience with <br />
             React.js, JavaScript, Tailwind, MaterialUI
           </ListParagraph>
         </ListContainer>
@@ -36,7 +36,18 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-
+      <ListItem>
+        <picture>
+          <DiSwift size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Mobile</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            Swift, SwiftUI, Storyboard
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
     </List>
     <SectionDivider colorAlt />
   </Section>
