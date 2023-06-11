@@ -15,8 +15,17 @@ export const projects = [
     tags: ['Python, Flask, React.js, SQLite, Tailwind'],
     source: 'https://github.com/Shawn-Smith24/job-tracker/tree/shawn',
     demo: '',
-    id:1 
-    }
+    id: 1
+  },
+  {
+    title: 'Rick & Morty App',
+    description: 'An app using Rick & Morty API to show characters, episodes and various locations through the show',
+    image: '/images/Rick&Morty.png',
+    tags: ['Swift, UIKit, SwiftUI'],
+    source: '',
+    demo: '/images/Rick&MortyDemo.mp4',
+    id: 2
+  }
 
 ];
 
@@ -25,11 +34,11 @@ export const TimeLineData = [
   { year: 2022, text: 'Started to independently learn Web Development', },
   { year: 2022, text: 'Signed up for Flatiron School Software Engineering Bootcamp', },
   { year: 2023, text: 'Graduated from Flatiron School!', },
-  { year: 2023, text: 'Started to broaden my skills by learning Swift.'}
+  { year: 2023, text: 'Started to broaden my skills by learning Swift.' }
 ];
 
 
-//Easy add project template
+// Easy add project template
 // {
 // title: '',
 // description: '',
