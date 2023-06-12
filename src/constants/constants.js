@@ -9,11 +9,11 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Job Tracker',
-    description: 'The Job Tracker App is a full-stack application built to help users keep track of their job applications. It allows users to sign up, search for jobs, and apply for jobs, as well as manage their application status.',
-    image: '/images/Job-board.png',
-    tags: ['Python, Flask, React.js, SQLite, Tailwind, Redux'],
-    source: 'https://github.com/Shawn-Smith24/job-tracker/tree/shawn',
+    title: 'The Otaku Chronicles',
+    description: 'This is a web application built with Python, Flask, React.js, and SQLAlchemy. The application allows users to create and publish blog posts related to anime and manga, as well as add information about anime, manga, and characters..',
+    image: '/images/TheOtaku.png',
+    tags: ['Python, Flask, React.js, SQLite, Tailwind'],
+    source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles/tree/frontend',
     demo: '',
     id: 1
   },
