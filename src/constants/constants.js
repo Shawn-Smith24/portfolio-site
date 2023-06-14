@@ -31,7 +31,7 @@ export const projects = [
     description: 'A clone of Netflix using Swift and UIKit',
     image: '/images/Netflix.png',
     tags: ['Swift, UIKit'],
-    source: 'https://github.com/Shawn-Smith24/Netflix-Clone',
+    source: '',
     demo: '/images/NetflixDemo.mp4',
     id: 3 
     }
