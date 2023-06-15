@@ -9,14 +9,24 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'The Otaku Chronicles',
-    description: 'This is a web application built with Python, Flask, React.js, and SQLAlchemy. The application allows users to create and publish blog posts related to anime and manga, as well as add information about anime, manga, and characters..',
-    image: '/images/TheOtaku.png',
-    tags: ['Python, Flask, React.js, SQLite, Tailwind'],
-    source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles/tree/frontend',
-    demo: '',
+    title: 'Snake AI Training',
+    description: 'This project aims to train an AI agent to play the game of Snake using reinforcement learning techniques. The implementation utilizes PyTorch for deep learning and Pygame for creating the game environment.',
+    image: '/images/SnakeImage.png',
+    tags: ['Python, PyTorch, PyGame'],
+    source: 'https://github.com/Shawn-Smith24/SnakeGameAITraining',
+    demo: '/images/SnakeDemo.mov',
     id: 1
-  },
+    },
+    {
+      title: 'The Otaku Chronicles',
+      description: 'This is a web application built with Python, Flask, React.js, and SQLAlchemy. The application allows users to create and publish blog posts related to anime and manga, as well as add information about anime, manga, and characters..',
+      image: '/images/TheOtaku.png',
+      tags: ['Python, Flask, React.js, SQLite, Tailwind'],
+      source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles/tree/frontend',
+      demo: '',
+      id: 2
+    },
+
   {
     title: 'Rick & Morty App',
     description: 'An app using Rick & Morty API to show characters, episodes and various locations through the show',
@@ -24,18 +34,8 @@ export const projects = [
     tags: ['Swift, UIKit'],
     source: '',
     demo: '/images/Rick&MortyDemo.mp4',
-    id: 2
-  },
-  {
-    title: 'Netflix Clone',
-    description: 'A clone of Netflix using Swift and UIKit',
-    image: '/images/Netflix.png',
-    tags: ['Swift, UIKit'],
-    source: '',
-    demo: '/images/NetflixDemo.mp4',
-    id: 3 
-    }
-  
+    id: 3
+  }, 
 
 ];
 
@@ -44,7 +44,7 @@ export const TimeLineData = [
   { year: 2022, text: 'Started to independently learn Web Development', },
   { year: 2022, text: 'Signed up for Flatiron School Software Engineering Bootcamp', },
   { year: 2023, text: 'Graduated from Flatiron School!', },
-  { year: 2023, text: 'Started to broaden my skills by learning Swift.' }
+  { year: 2023, text: 'Started to broaden my skills by learning AI.' }
 ];
 
 
@@ -57,4 +57,4 @@ export const TimeLineData = [
 // source: '',
 // demo: '',
 // id: 
-// }
+// },
