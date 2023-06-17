@@ -16,16 +16,25 @@ export const projects = [
     source: 'https://github.com/Shawn-Smith24/SnakeGameAITraining',
     demo: '/images/SnakeDemo.mov',
     id: 1
-    },
-    {
-      title: 'The Otaku Chronicles',
-      description: 'This is a web application built with Python, Flask, React.js, and SQLAlchemy. The application allows users to create and publish blog posts related to anime and manga, as well as add information about anime, manga, and characters..',
-      image: '/images/TheOtaku.png',
-      tags: ['Python, Flask, React.js, SQLite, Tailwind'],
-      source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles/tree/frontend',
-      demo: '',
-      id: 2
-    },
+  },
+  {
+    title: 'The Otaku Chronicles',
+    description: 'This is a web application built with Python, Flask, React.js, and SQLAlchemy. The application allows users to create and publish blog posts related to anime and manga, as well as add information about anime, manga, and characters..',
+    image: '/images/TheOtaku.png',
+    tags: ['Python, Flask, React.js, SQLite, Tailwind'],
+    source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles/tree/frontend',
+    demo: '',
+    id: 2
+  },
+  {
+    title: 'Mastermind Game',
+    description: 'The object of MASTERMIND (r) is to guess a secret code consisting of a series of 4 colored pegs. Each guest results in feedback narrowing down the possibilities of the code. The winner is the player who solves his opponents secret code with fewer guesses.',
+    image: '/images/Mastermind.png',
+    tags: ['Python'],
+    source: 'https://github.com/Shawn-Smith24/MastermindGame',
+    demo: '/images/MastermindDemo.mov',
+    id: 3
+  },
 
   {
     title: 'Rick & Morty App',
@@ -34,8 +43,8 @@ export const projects = [
     tags: ['Swift, UIKit'],
     source: '',
     demo: '/images/Rick&MortyDemo.mp4',
-    id: 3
-  }, 
+    id: 4
+  },
 
 ];
 
