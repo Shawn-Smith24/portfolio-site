@@ -18,24 +18,23 @@ export const projects = [
     id: 1
   },
   {
-    title: 'The Otaku Chronicles',
-    description: 'This is a web application built with Python, Flask, React.js, and SQLAlchemy. The application allows users to create and publish blog posts related to anime and manga, as well as add information about anime, manga, and characters..',
-    image: '/images/TheOtaku.png',
-    tags: ['Python, Flask, React.js, SQLite, Tailwind'],
-    source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles/tree/frontend',
-    demo: '',
-    id: 2
-  },
-  {
     title: 'Mastermind Game',
     description: 'The object of MASTERMIND (r) is to guess a secret code consisting of a series of 4 colored pegs. Each guest results in feedback narrowing down the possibilities of the code. The winner is the player who solves his opponents secret code with fewer guesses.',
     image: '/images/Mastermind.png',
     tags: ['Python'],
     source: 'https://github.com/Shawn-Smith24/MastermindGame',
     demo: '/images/MastermindDemo.mov',
-    id: 3
+    id: 2
   },
-
+  {
+    title: 'AutoShop',
+    description: 'A web page for a to browse cars with he vehicles information.',
+    image: '/images/AutoShopPhoto.png',
+    tags: ['React, TypeScript, Tailwind'],
+    source: 'https://github.com/Shawn-Smith24/autoshop',
+    demo: '/images/Autoshop.mov',
+    id: 3
+    },
   {
     title: 'Rick & Morty App',
     description: 'An app using Rick & Morty API to show characters, episodes and various locations through the show',
