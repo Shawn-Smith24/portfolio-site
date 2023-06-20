@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'AutoShop',
     description: 'A web page for a to browse cars with he vehicles information.',
-    image: '/images/AutoShopPhoto.png',
+    image: '/images/AutoshopPhoto.png',
     tags: ['React, TypeScript, Tailwind'],
     source: 'https://github.com/Shawn-Smith24/autoshop',
     demo: '/images/Autoshop.mov',
