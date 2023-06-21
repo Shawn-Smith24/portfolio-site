@@ -1,13 +1,5 @@
 export const projects = [
-  {
-    title: 'My Portfolio',
-    description: "Web App to easily stage my experience and all my projects using React",
-    image: '/images/portfolio-site.png',
-    tags: ['React, Next'],
-    source: 'https://github.com/Shawn-Smith24/portfolio-site',
-    demo: '',
-    id: 0,
-  },
+ 
   {
     title: 'Snake AI Training',
     description: 'This project aims to train an AI agent to play the game of Snake using reinforcement learning techniques. The implementation utilizes PyTorch for deep learning and Pygame for creating the game environment.',
@@ -15,7 +7,7 @@ export const projects = [
     tags: ['Python, PyTorch, PyGame'],
     source: 'https://github.com/Shawn-Smith24/SnakeGameAITraining',
     demo: '/images/SnakeDemo.mov',
-    id: 1
+    id: 0
   },
   {
     title: 'Mastermind Game',
@@ -24,7 +16,7 @@ export const projects = [
     tags: ['Python'],
     source: 'https://github.com/Shawn-Smith24/MastermindGame',
     demo: '/images/MastermindDemo.mov',
-    id: 2
+    id: 1
   },
   {
     title: 'AutoShop',
@@ -33,7 +25,7 @@ export const projects = [
     tags: ['React, TypeScript, Tailwind'],
     source: 'https://github.com/Shawn-Smith24/autoshop',
     demo: 'https://autoshop-five.vercel.app/',
-    id: 3
+    id: 2
     },
   {
     title: 'Rick & Morty App',
@@ -42,7 +34,16 @@ export const projects = [
     tags: ['Swift, UIKit'],
     source: '',
     demo: '/images/Rick&MortyDemo.mp4',
-    id: 4
+    id: 3
+  },
+   {
+    title: 'My Portfolio',
+    description: "Web App to easily stage my experience and all my projects using React",
+    image: '/images/portfolio-site.png',
+    tags: ['React, Next'],
+    source: 'https://github.com/Shawn-Smith24/portfolio-site',
+    demo: '',
+    id: 4,
   },
 
 ];
