@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/AutoshopPhoto.png',
     tags: ['React, TypeScript, Tailwind'],
     source: 'https://github.com/Shawn-Smith24/autoshop',
-    demo: '/images/Autoshop.mov',
+    demo: 'https://autoshop-five.vercel.app/',
     id: 3
     },
   {
