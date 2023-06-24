@@ -27,15 +27,6 @@ export const projects = [
     demo: 'https://autoshop-five.vercel.app/',
     id: 2
     },
-  {
-    title: 'Rick & Morty App',
-    description: 'An app using Rick & Morty API to show characters, episodes and various locations through the show',
-    image: '/images/Rick&Morty.png',
-    tags: ['Swift, UIKit'],
-    source: '',
-    demo: '/images/Rick&MortyDemo.mp4',
-    id: 3
-  },
    {
     title: 'My Portfolio',
     description: "Web App to easily stage my experience and all my projects using React",
@@ -43,7 +34,7 @@ export const projects = [
     tags: ['React, Next'],
     source: 'https://github.com/Shawn-Smith24/portfolio-site',
     demo: '',
-    id: 4,
+    id: 3,
   },
 
 ];

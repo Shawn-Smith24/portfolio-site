@@ -32,22 +32,11 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             Python, Flask, SQLite, MongoDB, PyTorch
-            Node 
+            Node, Express
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <picture>
-          <DiApple size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>Mobile</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            Swift, SwiftUI, Storyboard, XCode
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
+     
     </List>
     <SectionDivider colorAlt />
   </Section>
