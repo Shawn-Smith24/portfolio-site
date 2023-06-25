@@ -1,5 +1,5 @@
 export const projects = [
- 
+
   {
     title: 'Snake AI Training',
     description: 'This project aims to train an AI agent to play the game of Snake using reinforcement learning techniques. The implementation utilizes PyTorch for deep learning and Pygame for creating the game environment.',
@@ -10,13 +10,22 @@ export const projects = [
     id: 0
   },
   {
+    title: 'Footy Connect',
+    description: 'Full Stack MERN Application. The App is called "Footy Connect" and it is a simple social media app that allows users to post interesting topics related to soccer whether it is transfer news, game updates, etc.',
+    image: '/images/FootyConnect.png',
+    tags: ['React, Node.js, Express, MongoDB, Redux'],
+    source: 'https://github.com/Shawn-Smith24/FootyConnect',
+    demo: '',
+    id: 1
+  },
+  {
     title: 'Mastermind Game',
     description: 'The object of MASTERMIND (r) is to guess a secret code consisting of a series of 4 colored pegs. Each guest results in feedback narrowing down the possibilities of the code. The winner is the player who solves his opponents secret code with fewer guesses.',
     image: '/images/Mastermind.png',
     tags: ['Python'],
     source: 'https://github.com/Shawn-Smith24/MastermindGame',
     demo: '/images/MastermindDemo.mov',
-    id: 1
+    id: 2
   },
   {
     title: 'AutoShop',
@@ -25,16 +34,16 @@ export const projects = [
     tags: ['React, TypeScript, Tailwind'],
     source: 'https://github.com/Shawn-Smith24/autoshop',
     demo: 'https://autoshop-five.vercel.app/',
-    id: 2
-    },
-   {
+    id: 3
+  },
+  {
     title: 'My Portfolio',
     description: "Web App to easily stage my experience and all my projects using React",
     image: '/images/portfolio-site.png',
     tags: ['React, Next'],
     source: 'https://github.com/Shawn-Smith24/portfolio-site',
     demo: '',
-    id: 3,
+    id: 4,
   },
 
 ];
