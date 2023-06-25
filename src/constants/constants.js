@@ -15,7 +15,7 @@ export const projects = [
     image: '/images/FootyConnect.png',
     tags: ['React, Node.js, Express, MongoDB, Redux'],
     source: 'https://github.com/Shawn-Smith24/FootyConnect',
-    demo: '',
+    demo: '/images/FCDemo.mov',
     id: 1
   },
   {
