@@ -53,7 +53,6 @@ export const TimeLineData = [
   { year: 2022, text: 'Started to independently learn Web Development', },
   { year: 2022, text: 'Signed up for Flatiron School Software Engineering Bootcamp', },
   { year: 2023, text: 'Graduated from Flatiron School!', },
-  { year: 2023, text: 'Started to broaden my skills by learning AI.' }
 ];
 
 
