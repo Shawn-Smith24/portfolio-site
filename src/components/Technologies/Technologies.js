@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, JavaScript, Tailwind, MaterialUI
+            React.js, JavaScript, Tailwind, MaterialUI, Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,7 +31,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Python, Flask, SQLite, MongoDB, PyTorch
+            Python, Flask, Django, SQLite, MongoDB,
             Node, Express
           </ListParagraph>
         </ListContainer>
