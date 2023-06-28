@@ -2,7 +2,7 @@ export const projects = [
 
   {
     title: 'Footy Connect',
-    description: 'Full Stack MERN Application. The App is called "Footy Connect" and it is a simple social media app that allows users to post interesting topics related to soccer whether it is transfer news, game updates, etc.',
+    description: 'Full Stack MERN Application. With full CRUD operations. The App is called "Footy Connect" and it is a simple social media app that allows users to post interesting topics related to soccer whether it is transfer news, game updates, etc.',
     image: '/images/FootyConnect.png',
     tags: ['React, Node.js, Express, MongoDB, Redux'],
     source: 'https://github.com/Shawn-Smith24/FootyConnect',
