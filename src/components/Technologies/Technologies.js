@@ -31,7 +31,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            C#, Python, Flask, Django,
+            Java, Spring Boot, Python, Flask,
             Node, Express
           </ListParagraph>
         </ListContainer>
