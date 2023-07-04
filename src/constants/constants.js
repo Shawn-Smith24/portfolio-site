@@ -10,12 +10,12 @@ export const projects = [
     id: 0
   },
   {
-    title: 'AutoShop',
-    description: 'A web page for a to browse cars with he vehicles information.',
-    image: '/images/AutoshopPhoto.png',
-    tags: ['React, TypeScript, Tailwind'],
-    source: 'https://github.com/Shawn-Smith24/autoshop',
-    demo: 'https://autoshop-five.vercel.app/',
+    title: 'Pong Game',
+    description: 'A java program for the classic computer/arcade game pong',
+    image: '/images/Pong.png',
+    tags: ['Java'],
+    source: 'https://github.com/Shawn-Smith24/PongGame',
+    demo: '/images/PongDemo.mov',
     id: 1
   },
   {
@@ -25,7 +25,7 @@ export const projects = [
     tags: ['Python, PyTorch, PyGame'],
     source: 'https://github.com/Shawn-Smith24/SnakeGameAITraining',
     demo: '/images/SnakeDemo.mov',
-    id: 2
+    id: 3
   },
   {
     title: 'Mastermind Game',
@@ -34,7 +34,7 @@ export const projects = [
     tags: ['Python'],
     source: 'https://github.com/Shawn-Smith24/MastermindGame',
     demo: '/images/MastermindDemo.mov',
-    id: 3
+    id: 2
   },
 
   {
