@@ -11,7 +11,7 @@ export const projects = [
   },
   {
     title: 'Pong Game',
-    description: 'A java program for the classic computer/arcade game pong',
+    description: 'Java Pong Game is a classic arcade game that simulates a table tennis match. Players control paddles to hit a ball back and forth across the screen, aiming to score points against their opponent. The game offers an engaging multiplayer experience where two players can compete against each other on a single computer.',
     image: '/images/Pong.png',
     tags: ['Java'],
     source: 'https://github.com/Shawn-Smith24/PongGame',
