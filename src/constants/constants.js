@@ -9,15 +9,15 @@ export const projects = [
     demo: '/images/FCDemo.mov',
     id: 0
   },
-  {
-    title: 'Pong Game',
-    description: 'Java Pong Game is a classic arcade game that simulates a table tennis match. Players control paddles to hit a ball back and forth across the screen, aiming to score points against their opponent. The game offers an engaging multiplayer experience where two players can compete against each other on a single computer.',
-    image: '/images/Pong.png',
-    tags: ['Java'],
-    source: 'https://github.com/Shawn-Smith24/PongGame',
-    demo: '/images/PongDemo.mov',
-    id: 1
-  },
+  // {
+  //   title: 'Pong Game',
+  //   description: 'Java Pong Game is a classic arcade game that simulates a table tennis match. Players control paddles to hit a ball back and forth across the screen, aiming to score points against their opponent. The game offers an engaging multiplayer experience where two players can compete against each other on a single computer.',
+  //   image: '/images/Pong.png',
+  //   tags: ['Java'],
+  //   source: 'https://github.com/Shawn-Smith24/PongGame',
+  //   demo: '/images/PongDemo.mov',
+  //   id: 1
+  // },
   {
     title: 'Snake AI Training',
     description: 'This project aims to train an AI agent to play the game of Snake using reinforcement learning techniques. The implementation utilizes PyTorch for deep learning and Pygame for creating the game environment.',
