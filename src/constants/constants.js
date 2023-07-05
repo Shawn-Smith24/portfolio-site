@@ -9,6 +9,25 @@ export const projects = [
     demo: '/images/FCDemo.mov',
     id: 0
   },
+
+  {
+    title: 'Car Showcase',
+    description: 'A Next.js project using a car API that allows to users to search for cars with the cars details.',
+    image: '/images/AutoshopPhoto.png',
+    tags: ['Next.js, Typescript, Tailwind '],
+    source: 'https://github.com/Shawn-Smith24/autoshop',
+    demo: 'https://autoshop-five.vercel.app/',
+    id: 1
+  },
+  {
+    title: 'Pong Game',
+    description: 'Java Pong Game is a classic arcade game that simulates a table tennis match. Players control paddles to hit a ball back and forth across the screen, aiming to score points against their opponent. The game offers an engaging multiplayer experience where two players can compete against each other on a single computer.',
+    image: '/images/Pong.png',
+    tags: ['Java, Javax'],
+    source: 'https://github.com/Shawn-Smith24/PongGame',
+    demo: '/images/PongDemo.mov',
+    id: 2
+  },
   {
     title: 'Snake AI Training',
     description: 'This project aims to train an AI agent to play the game of Snake using reinforcement learning techniques. The implementation utilizes PyTorch for deep learning and Pygame for creating the game environment.',
@@ -16,7 +35,7 @@ export const projects = [
     tags: ['Python, PyTorch, PyGame'],
     source: 'https://github.com/Shawn-Smith24/SnakeGameAITraining',
     demo: '/images/SnakeDemo.mov',
-    id: 1
+    id: 3
   },
   {
     title: 'Mastermind Game',
@@ -25,7 +44,7 @@ export const projects = [
     tags: ['Python'],
     source: 'https://github.com/Shawn-Smith24/MastermindGame',
     demo: '/images/MastermindDemo.mov',
-    id: 2
+    id: 4
   },
 
   {
@@ -35,7 +54,7 @@ export const projects = [
     tags: ['React, Next'],
     source: 'https://github.com/Shawn-Smith24/portfolio-site',
     demo: '',
-    id: 3,
+    id: 5,
   },
 
 ];
