@@ -10,15 +10,7 @@ export const projects = [
     id: 0
   },
 
-  {
-    title: 'Car Showcase',
-    description: 'A Next.js project using a car API that allows to users to search for cars with the cars details.',
-    image: '/images/AutoshopPhoto.png',
-    tags: ['Next.js, Typescript, Tailwind '],
-    source: 'https://github.com/Shawn-Smith24/autoshop',
-    demo: 'https://autoshop-five.vercel.app/',
-    id: 1
-  },
+
   {
     title: 'Snake AI Training',
     description: 'This project aims to train an AI agent to play the game of Snake using reinforcement learning techniques. The implementation utilizes PyTorch for deep learning and Pygame for creating the game environment.',
