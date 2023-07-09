@@ -9,7 +9,15 @@ export const projects = [
     demo: '/images/FCDemo.mov',
     id: 0
   },
-
+  {
+    title: 'The Otaku Chronicles',
+    description: 'This is a web application built with Python, Flask, React.js, and SQLAlchemy. The application allows users to create and publish blog posts related to anime and manga, as well as add information about anime, manga, and characters.',
+    image: '/images/Otaku.png',
+    tags: ['Flask, React, Tailwind CSS, SQLite, SQLAlchemy'],
+    source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles',
+    demo: '',
+    id: 1
+},
 
   {
     title: 'Snake AI Training',
@@ -18,7 +26,7 @@ export const projects = [
     tags: ['Python, PyTorch, PyGame'],
     source: 'https://github.com/Shawn-Smith24/SnakeGameAITraining',
     demo: '/images/SnakeDemo.mov',
-    id: 3
+    id: 2
   },
   {
     title: 'Mastermind Game',
@@ -27,7 +35,7 @@ export const projects = [
     tags: ['Python'],
     source: 'https://github.com/Shawn-Smith24/MastermindGame',
     demo: '/images/MastermindDemo.mov',
-    id: 4
+    id: 3
   },
 
   {
@@ -37,7 +45,7 @@ export const projects = [
     tags: ['React, Next'],
     source: 'https://github.com/Shawn-Smith24/portfolio-site',
     demo: '',
-    id: 5,
+    id: 4,
   },
 
 ];
