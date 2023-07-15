@@ -19,15 +19,7 @@ export const projects = [
     id: 1
 },
 
-  {
-    title: 'Snake AI Training',
-    description: 'This project aims to train an AI agent to play the game of Snake using reinforcement learning techniques. The implementation utilizes PyTorch for deep learning and Pygame for creating the game environment.',
-    image: '/images/SnakeImage.png',
-    tags: ['Python, PyTorch, PyGame'],
-    source: 'https://github.com/Shawn-Smith24/SnakeGameAITraining',
-    demo: '/images/SnakeDemo.mov',
-    id: 2
-  },
+
   {
     title: 'Mastermind Game',
     description: 'The object of MASTERMIND (r) is to guess a secret code consisting of a series of 4 colored pegs. Each guest results in feedback narrowing down the possibilities of the code. The winner is the player who solves his opponents secret code with fewer guesses.',
