@@ -6,7 +6,7 @@ export const projects = [
     image: '/images/FootyConnect.png',
     tags: ['React, Node.js, Express, MongoDB, Redux'],
     source: 'https://github.com/Shawn-Smith24/FootyConnect',
-    demo: '/images/FCDemo.mov',
+    demo: 'https://youtu.be/WbXgPGz2qv8',
     id: 0
   },
   {
@@ -15,7 +15,7 @@ export const projects = [
     image: '/images/Otaku.png',
     tags: ['Flask, React, Tailwind CSS, SQLite, SQLAlchemy'],
     source: 'https://github.com/Shawn-Smith24/The_Otaku_Chronicles',
-    demo: '',
+    demo: 'https://youtu.be/-XRxiWMz7qo',
     id: 1
 },
 
@@ -26,7 +26,7 @@ export const projects = [
     image: '/images/Mastermind.png',
     tags: ['Python'],
     source: 'https://github.com/Shawn-Smith24/MastermindGame',
-    demo: '/images/MastermindDemo.mov',
+    demo: 'https://youtu.be/1GE1CShW4v8',
     id: 3
   },
 
